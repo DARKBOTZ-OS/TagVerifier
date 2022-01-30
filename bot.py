@@ -77,7 +77,7 @@ async def unmute(client, cb):
       await cb.answer("Succesfully Unmuted!")
       await message.delete()
       return
-    await cb.answer("MF USE TAG!", show_alert=True)
+    await cb.answer("BSDK TAG LGA!", show_alert=True)
 
 
 tagcheck.run()
