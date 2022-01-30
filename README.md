@@ -5,4 +5,4 @@ A telegram tag verifier bot, which can verify that user has your community tag o
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARKBOTZ-OS/TagVerifier/blob/main)
 
 # Telegram Support Chat
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/TheTelegramChats)
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/DarkBotZ)
