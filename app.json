@@ -8,7 +8,7 @@
         "bots"
     ],
     "website": "https://t.me/Dark_botz_support",
-    "repository": "https://github.com/DGABHI/TagVerifier",
+    "repository": "https://github.com/DARKBOTZ-OS/TagVerifier",
     "success_url": "https://t.me/Dark_botz_support",
     "env": {
         "API_ID": {
